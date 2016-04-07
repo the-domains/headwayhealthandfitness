@@ -22,7 +22,7 @@ color:
     - '#027daa'
     - '#022a63'
   brandStrength: 0
-  lightness: 1
-  saturation: 0.1875
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0.25
 purpose: []
