@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Personal Training]]></title>
+        <description><![CDATA[Personal Training]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 07:44:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I believe in individuality and authenticity.    None of us is better than all of us.    We all deserve to find our own starting point on the road to health and fitness. ]]></title>
+            <description><![CDATA[<h1>I believe in individuality and authenticity.    None of us is better than all of us.    We all deserve to find our own starting point on the road to health and fitness. </h1>]]></description>
+            <link>undefinedb389b6b8-2d43-40d1-89f7-c583ac4277f2/index.html</link>
+            <guid isPermaLink="false">b389b6b8-2d43-40d1-89f7-c583ac4277f2</guid>
+            <pubDate>Thu, 07 Apr 2016 07:43:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
