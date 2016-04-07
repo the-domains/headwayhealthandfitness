@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Headway Health and Fitness]]></title>
         <description><![CDATA[Headway Health and Fitness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/headwayhealthandfitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 04:27:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 04:40:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/headwayhealthandfitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9863ec8f-8dba-4fd6-9b49-bffe48240356.jpg">]]></description>
+            <link>https://thegrid.ai/headwayhealthandfitness/291f4c53-5b4d-4497-8d37-0fd457e0ba79/index.html</link>
+            <guid isPermaLink="false">291f4c53-5b4d-4497-8d37-0fd457e0ba79</guid>
+            <pubDate>Thu, 07 Apr 2016 04:39:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9dffeca-546a-4757-bdeb-9e89d0b750b3.jpg">]]></description>
-            <link>undefined2ae6d785-7e94-4766-a023-1f2566cd2f9e/index.html</link>
+            <link>https://thegrid.ai/headwayhealthandfitness/2ae6d785-7e94-4766-a023-1f2566cd2f9e/index.html</link>
             <guid isPermaLink="false">2ae6d785-7e94-4766-a023-1f2566cd2f9e</guid>
             <pubDate>Thu, 07 Apr 2016 04:27:15 GMT</pubDate>
         </item>
