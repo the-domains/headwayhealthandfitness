@@ -1,7 +1,7 @@
 name: Headway Health and Fitness
 favicon: null
-layout_spectrum: 0.4393
-typography_spectrum: 0.38907
+layout_spectrum: 1
+typography_spectrum: 0
 title: Home
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3d689a'
     - '#d6c0c3'
   brandStrength: 0.25
-  lightness: 0.5625
-  saturation: 0.125
-  rhythmicContrast: 0.25
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
