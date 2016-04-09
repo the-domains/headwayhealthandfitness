@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://urbanremedy.asia'
-  name: Urban Remedy
-  favicon: 'http://urbanremedy.asia/favicon.ico?v=2'
-  domain: urbanremedy.asia
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - fats
   - vitamins
@@ -18,17 +16,21 @@ keywords:
   - energy
   - bodies
 description: "Macronutrients and Micronutrients: What are they, and how can they help us? You might have heard the words 'macronutrients' and 'micronutrients' floating around the internet and then wondered exactly what they mean. These nutrients are more than just nutria-speak - they're part of every single whole food at the grocery store and are essential for optimal health and weight loss."
-inLanguage: en
+datePublished: '2016-04-09T05:53:54.987Z'
+dateModified: '2016-04-09T05:53:54.089Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://urbanremedy.asia/remedy/macronutrients-and-micronutrients-what-are-they-and-how-can-they-help-us'
 title: 'Macronutrients and Micronutrients: What are they, and how can they help us?'
-datePublished: '2016-04-09T03:55:12.824Z'
-dateModified: '2016-04-09T03:54:13.822Z'
 sourcePath: _posts/2016-04-09-macronutrients-and-micronutrients-what-are-they-and-how-ca.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Urban Remedy
+  domain: urbanremedy.asia
+  url: 'http://urbanremedy.asia'
+  favicon: 'http://urbanremedy.asia/favicon.ico?v=2'
+url: macronutrients-and-micronutrients-what-are-they-and-how-ca/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
