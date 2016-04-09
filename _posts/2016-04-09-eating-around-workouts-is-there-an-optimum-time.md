@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://urbanremedy.asia'
-  name: Urban Remedy
-  favicon: 'http://urbanremedy.asia/favicon.ico?v=2'
-  domain: urbanremedy.asia
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - workout
   - carbohydrate
@@ -18,17 +16,21 @@ keywords:
   - depleted
   - snack
 description: "Eating around workouts - is there an optimum time? by Cath Forte (Global) * 04/09/2016 It's a common question - when should I eat around my workouts? No-one wants to feel bloated and sick on a run, but similarly, we don't want to risk fainting mid-way through a HIIT class because there's not enough fuel in the tank."
-inLanguage: en
+datePublished: '2016-04-09T05:55:05.870Z'
+dateModified: '2016-04-09T05:20:35.344Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://urbanremedy.asia/remedy/eating-around-workouts-is-there-an-optimum-time'
 title: Eating around workouts - is there an optimum time?
-datePublished: '2016-04-09T03:54:58.430Z'
-dateModified: '2016-04-09T03:53:23.925Z'
 sourcePath: _posts/2016-04-09-eating-around-workouts-is-there-an-optimum-time.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Urban Remedy
+  domain: urbanremedy.asia
+  url: 'http://urbanremedy.asia'
+  favicon: 'http://urbanremedy.asia/favicon.ico?v=2'
+url: eating-around-workouts-is-there-an-optimum-time/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
